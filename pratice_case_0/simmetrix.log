@@ -1,0 +1,14 @@
+-- Sim_logOn()
+--[[
+2025.0-250412 Platform x64_rhel8_gcc83
+--]]
+-- Sim_logOn()
+-- SimLicense_start("geomsim_core,geomsim_discrete,meshsim_surface,meshsim_volume,meshsim_adv,meshsim_adapt", nil)
+--[[
+  SimInfoString(_FILE_): license/SimModSuiteFeatures.cc
+  SimInfoInt(_LINE_): 52
+  SimInfoString(name): /opt/cvbml/scripts/simmetrix_license_server/floating.lic
+--]]
+--[[
+Error: Code: 203 String: License file /opt/cvbml/scripts/simmetrix_license_server/floating.lic could not be accessed [SInfo.cc:67]
+--]]
